@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-customer-service-workspace-flutter",
+  "capabilityKey": "planned:ecommerce:customer-service-workspace",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_customer_service_workspace_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/customer-service-workspace.md",
+  "presentationPlan": "projects/ecommerce/flutter/customer-service-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
